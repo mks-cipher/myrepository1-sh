@@ -1,6 +1,6 @@
 def question_1():
     """
-    Return the unique values from the following list [1, 2, 2, 1, 3, 3, 2].
+    Return the unique values from the following list [1, 2, 2, 1, 3, 3, 2]
     """
     my_list = [1, 2, 2, 1, 3, 3, 2]
     my_set = set(my_list)
