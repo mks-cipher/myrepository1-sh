@@ -1,2 +1,2 @@
 #test-script1.py
-#This script return the unique values from a given list as input
+#This python script return the unique values from a given list as input
